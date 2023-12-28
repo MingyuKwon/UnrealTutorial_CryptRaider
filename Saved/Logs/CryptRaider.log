@@ -1773,3 +1773,457 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.12.28-04.15.40:946][140]LogFileHelpers: InternalPromptForCheckoutAndSave took 106 ms (total: 478 ms)
 [2023.12.28-04.15.40:948][140]AssetCheck: New page: 에셋 저장:  Dungeon
 [2023.12.28-04.15.40:948][140]LogContentValidation: Display: /Script/Engine.World /Game/Dungeon.Dungeon 유효성 검사 중
+[2023.12.28-04.18.04:546][676]LogDerivedDataCache: C:/Users/kmgmg/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:09.104 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 5086 files in 7010 folders with total size 561 MiB.
+[2023.12.28-04.18.20:244][514]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.28-04.18.47:795][139]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2023.12.28-04.18.47:795][139]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2023.12.28-04.18.47:887][141]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2023.12.28-04.18.47:887][141]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2023.12.28-04.18.49:293][302]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2023.12.28-04.18.49:293][302]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2023.12.28-04.19.02:218][739]Cmd: DELETE
+[2023.12.28-04.19.02:219][739]Cmd: ACTOR DELETE
+[2023.12.28-04.19.02:221][739]LogEditorActor: Deleted Actor: PointLight
+[2023.12.28-04.19.02:232][739]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2023.12.28-04.19.02:235][739]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2023.12.28-04.19.23:007][105]LogEditorViewport: Clicking Background
+[2023.12.28-04.19.23:538][158]LogEditorViewport: Clicking Background
+[2023.12.28-04.19.24:798][283]LogEditorViewport: Clicking Background
+[2023.12.28-04.19.25:114][312]LogEditorViewport: Clicking Background
+[2023.12.28-04.19.27:235][546]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2023.12.28-04.19.27:235][546]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2023.12.28-04.19.27:283][548]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2023.12.28-04.19.27:283][548]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2023.12.28-04.19.27:825][611]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2023.12.28-04.19.27:826][611]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2023.12.28-04.20.05:155][767]Cmd: TRANSACTION UNDO
+[2023.12.28-04.20.05:155][767]LogEditorTransaction: Undo 엘리먼트 이동
+[2023.12.28-04.21.36:143][447]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SpotLight
+[2023.12.28-04.21.36:143][447]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SpotLight
+[2023.12.28-04.21.37:519][592]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SpotLight
+[2023.12.28-04.21.37:519][592]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SpotLight
+[2023.12.28-04.23.07:306][299]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2023.12.28-04.23.07:306][299]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2023.12.28-04.23.07:307][299]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/Dungeon.Dungeon:PersistentLevel.DirectionalLight_0
+[2023.12.28-04.23.07:307][299]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/Dungeon.Dungeon:PersistentLevel.DirectionalLight_0
+[2023.12.28-04.23.07:386][305]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2023.12.28-04.23.07:386][305]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2023.12.28-04.23.07:387][305]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/Dungeon.Dungeon:PersistentLevel.DirectionalLight_1
+[2023.12.28-04.23.07:387][305]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/Dungeon.Dungeon:PersistentLevel.DirectionalLight_1
+[2023.12.28-04.23.14:777][146]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2023.12.28-04.23.14:777][146]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2023.12.28-04.23.14:778][146]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/Dungeon.Dungeon:PersistentLevel.DirectionalLight_2
+[2023.12.28-04.23.14:778][146]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/Dungeon.Dungeon:PersistentLevel.DirectionalLight_2
+[2023.12.28-04.23.14:825][148]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2023.12.28-04.23.14:825][148]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2023.12.28-04.23.14:826][148]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/Dungeon.Dungeon:PersistentLevel.DirectionalLight_3
+[2023.12.28-04.23.14:826][148]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/Dungeon.Dungeon:PersistentLevel.DirectionalLight_3
+[2023.12.28-04.23.15:876][261]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2023.12.28-04.23.15:876][261]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2023.12.28-04.23.15:878][261]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/Dungeon.Dungeon:PersistentLevel.DirectionalLight_4
+[2023.12.28-04.23.15:878][261]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/Dungeon.Dungeon:PersistentLevel.DirectionalLight_4
+[2023.12.28-04.23.48:043][862]Cmd: DELETE
+[2023.12.28-04.23.48:043][862]Cmd: ACTOR DELETE
+[2023.12.28-04.23.48:046][862]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.12.28-04.23.48:055][862]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.12.28-04.23.48:058][862]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2023.12.28-04.23.51:515][243]Cmd: DELETE
+[2023.12.28-04.23.51:515][243]Cmd: ACTOR DELETE
+[2023.12.28-04.23.51:518][243]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.12.28-04.23.51:523][243]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2023.12.28-04.23.51:525][243]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2023.12.28-04.23.55:314][650]Cmd: DELETE
+[2023.12.28-04.23.55:314][650]Cmd: ACTOR DELETE
+[2023.12.28-04.23.55:316][650]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.12.28-04.23.55:324][650]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2023.12.28-04.23.55:326][650]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2023.12.28-04.23.58:778][ 19]Cmd: DELETE
+[2023.12.28-04.23.58:778][ 19]Cmd: ACTOR DELETE
+[2023.12.28-04.23.58:781][ 19]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.12.28-04.23.58:790][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2023.12.28-04.23.58:792][ 19]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2023.12.28-04.24.02:166][387]Cmd: DELETE
+[2023.12.28-04.24.02:166][387]Cmd: ACTOR DELETE
+[2023.12.28-04.24.02:166][387]LogConsoleManager: Warning: Performance warning: Many (31) failed FindConsoleObject() for 'ACTOR'. 
+[2023.12.28-04.24.02:168][387]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.12.28-04.24.02:176][387]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2023.12.28-04.24.02:179][387]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2023.12.28-04.24.07:590][987]Cmd: DELETE
+[2023.12.28-04.24.07:591][987]Cmd: ACTOR DELETE
+[2023.12.28-04.24.07:593][987]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.12.28-04.24.07:602][987]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2023.12.28-04.24.07:605][987]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2023.12.28-04.24.09:053][150]Cmd: DELETE
+[2023.12.28-04.24.09:053][150]Cmd: ACTOR DELETE
+[2023.12.28-04.24.09:056][150]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.12.28-04.24.09:062][150]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2023.12.28-04.24.09:064][150]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2023.12.28-04.24.10:990][373]Cmd: DELETE
+[2023.12.28-04.24.10:990][373]Cmd: ACTOR DELETE
+[2023.12.28-04.24.10:992][373]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.12.28-04.24.10:998][373]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2023.12.28-04.24.11:000][373]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2023.12.28-04.24.15:058][830]Cmd: DELETE
+[2023.12.28-04.24.15:058][830]Cmd: ACTOR DELETE
+[2023.12.28-04.24.15:060][830]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.12.28-04.24.15:066][830]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2023.12.28-04.24.15:068][830]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2023.12.28-04.25.13:310][505]Cmd: TRANSACTION UNDO
+[2023.12.28-04.25.13:311][505]LogEditorTransaction: Undo 엘리먼트 클릭
+[2023.12.28-04.25.14:844][633]Cmd: DELETE
+[2023.12.28-04.25.14:844][633]Cmd: ACTOR DELETE
+[2023.12.28-04.25.14:846][633]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.12.28-04.25.14:847][633]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.12.28-04.25.14:847][633]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.12.28-04.25.14:847][633]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.12.28-04.25.14:848][633]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.12.28-04.25.14:848][633]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.12.28-04.25.14:848][633]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.12.28-04.25.14:848][633]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.12.28-04.25.14:856][633]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2023.12.28-04.25.14:858][633]LogEditorActor: Deleted 8 Actors (0.014 secs)
+[2023.12.28-04.25.18:961][ 44]Cmd: DELETE
+[2023.12.28-04.25.18:961][ 44]Cmd: ACTOR DELETE
+[2023.12.28-04.25.18:964][ 44]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.12.28-04.25.18:972][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2023.12.28-04.25.18:974][ 44]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2023.12.28-04.25.20:028][162]Cmd: DELETE
+[2023.12.28-04.25.20:029][162]Cmd: ACTOR DELETE
+[2023.12.28-04.25.20:031][162]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.12.28-04.25.20:037][162]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2023.12.28-04.25.20:040][162]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2023.12.28-04.25.21:187][290]Cmd: DELETE
+[2023.12.28-04.25.21:187][290]Cmd: ACTOR DELETE
+[2023.12.28-04.25.21:189][290]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.12.28-04.25.21:196][290]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2023.12.28-04.25.21:199][290]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2023.12.28-04.25.21:963][372]Cmd: DELETE
+[2023.12.28-04.25.21:963][372]Cmd: ACTOR DELETE
+[2023.12.28-04.25.21:965][372]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.12.28-04.25.21:972][372]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2023.12.28-04.25.21:974][372]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2023.12.28-04.25.41:841][694]Cmd: DELETE
+[2023.12.28-04.25.41:842][694]Cmd: ACTOR DELETE
+[2023.12.28-04.25.41:844][694]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.12.28-04.25.41:851][694]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2023.12.28-04.25.41:853][694]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2023.12.28-04.25.43:837][918]Cmd: DELETE
+[2023.12.28-04.25.43:837][918]Cmd: ACTOR DELETE
+[2023.12.28-04.25.43:839][918]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.12.28-04.25.43:847][918]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2023.12.28-04.25.43:849][918]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2023.12.28-04.25.44:757][ 17]Cmd: DELETE
+[2023.12.28-04.25.44:757][ 17]Cmd: ACTOR DELETE
+[2023.12.28-04.25.44:759][ 17]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.12.28-04.25.44:770][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2023.12.28-04.25.44:771][ 17]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2023.12.28-04.25.46:496][213]Cmd: DELETE
+[2023.12.28-04.25.46:496][213]Cmd: ACTOR DELETE
+[2023.12.28-04.25.46:498][213]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.12.28-04.25.46:505][213]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2023.12.28-04.25.46:507][213]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2023.12.28-04.25.50:966][734]Cmd: DELETE
+[2023.12.28-04.25.50:966][734]Cmd: ACTOR DELETE
+[2023.12.28-04.25.50:968][734]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.12.28-04.25.50:978][734]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2023.12.28-04.25.50:980][734]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2023.12.28-04.25.53:018][958]Cmd: DELETE
+[2023.12.28-04.25.53:018][958]Cmd: ACTOR DELETE
+[2023.12.28-04.25.53:019][958]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.12.28-04.25.53:030][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2023.12.28-04.25.53:033][958]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2023.12.28-04.25.57:548][472]Cmd: DELETE
+[2023.12.28-04.25.57:548][472]Cmd: ACTOR DELETE
+[2023.12.28-04.25.57:550][472]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.12.28-04.25.57:561][472]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2023.12.28-04.25.57:563][472]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2023.12.28-04.25.58:766][607]Cmd: DELETE
+[2023.12.28-04.25.58:766][607]Cmd: ACTOR DELETE
+[2023.12.28-04.25.58:768][607]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.12.28-04.25.58:779][607]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2023.12.28-04.25.58:781][607]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2023.12.28-04.25.59:544][689]Cmd: DELETE
+[2023.12.28-04.25.59:544][689]Cmd: ACTOR DELETE
+[2023.12.28-04.25.59:546][689]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.12.28-04.25.59:552][689]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2023.12.28-04.25.59:554][689]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2023.12.28-04.27.30:511][672]LogSlate: Window '색 선택 툴' being destroyed
+[2023.12.28-04.28.04:715][827]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.12.28-04.28.04:719][827]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dungeon" FILE="D:/Unreal/CryptRaider/Saved/Autosaves/Game/Dungeon_Auto6.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2023.12.28-04.28.04:755][827]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Dungeon_Auto6
+[2023.12.28-04.28.04:755][827]LogSavePackage: Moving 'D:/Unreal/CryptRaider/Saved/Dungeon_Auto66F58320C487A4FBC493FFFB73353C932.tmp' to 'D:/Unreal/CryptRaider/Saved/Autosaves/Game/Dungeon_Auto6.umap'
+[2023.12.28-04.28.04:756][827]LogAssetRegistry: Warning: ScanPathsSynchronous: D:/Unreal/CryptRaider/Saved/Autosaves/Game/Dungeon_Auto6.umap is in the /Temp path, will not scan.
+[2023.12.28-04.28.04:756][827]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/Dungeon_Auto6 is in the /Temp path, will not scan.
+[2023.12.28-04.28.04:756][827]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/Dungeon_Auto6 is in the /Temp path, will not scan.
+[2023.12.28-04.28.04:756][827]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Dungeon' took 0.051
+[2023.12.28-04.28.04:756][827]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.051
+[2023.12.28-04.28.56:719][264]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2023.12.28-04.28.56:719][264]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2023.12.28-04.28.56:720][264]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Game/Dungeon.Dungeon:PersistentLevel.SkyLight_0
+[2023.12.28-04.28.56:720][264]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Game/Dungeon.Dungeon:PersistentLevel.SkyLight_0
+[2023.12.28-04.28.57:196][292]LogShaderCompilers: Display: ================================================
+[2023.12.28-04.28.57:196][292]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.12.28-04.28.57:196][292]LogShaderCompilers: Display: Total job queries 30, among them cache hits 8 (26.67%)
+[2023.12.28-04.28.57:196][292]LogShaderCompilers: Display: Tracking 22 distinct input hashes that result in 17 distinct outputs (77.27%)
+[2023.12.28-04.28.57:196][292]LogShaderCompilers: Display: RAM used: 547.19 KiB of 1.60 GiB budget. Usage: 0.03%
+[2023.12.28-04.28.57:196][292]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.12.28-04.28.57:196][292]LogShaderCompilers: Display: Shaders Compiled: 12
+[2023.12.28-04.28.57:196][292]LogShaderCompilers: Display: Jobs assigned 12, completed 12 (100%)
+[2023.12.28-04.28.57:196][292]LogShaderCompilers: Display: Average time worker was idle: 7234.20 s
+[2023.12.28-04.28.57:196][292]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.07 s
+[2023.12.28-04.28.57:196][292]LogShaderCompilers: Display: Job execution time: average 0.93 s, max 1.10 s
+[2023.12.28-04.28.57:196][292]LogShaderCompilers: Display: Job life time (pending + execution): average 0.98 s, max 1.16
+[2023.12.28-04.28.57:196][292]LogShaderCompilers: Display: Shader code size: average 37.198 KiB, min 8.062 KiB, max 61.523 KiB
+[2023.12.28-04.28.57:196][292]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.63 s
+[2023.12.28-04.28.57:196][292]LogShaderCompilers: Display: Jobs were issued in 12 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.12.28-04.28.57:196][292]LogShaderCompilers: Display: Average processing rate: 7.37 jobs/sec
+[2023.12.28-04.28.57:196][292]LogShaderCompilers: Display: Total thread time: 3.351 s
+[2023.12.28-04.28.57:196][292]LogShaderCompilers: Display: Total thread preprocess time: 0.521 s
+[2023.12.28-04.28.57:196][292]LogShaderCompilers: Display: Percentage time preprocessing: 15.56%
+[2023.12.28-04.28.57:196][292]LogShaderCompilers: Display: Effective parallelization: 2.06 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2023.12.28-04.28.57:196][292]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.12.28-04.28.57:196][292]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.34 sec, max 0.34 sec, min 0.34 sec)
+[2023.12.28-04.28.57:196][292]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    1 times, average 0.34 sec, max 0.34 sec, min 0.34 sec)
+[2023.12.28-04.28.57:196][292]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    1 times, average 0.33 sec, max 0.33 sec, min 0.33 sec)
+[2023.12.28-04.28.57:196][292]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 0.27 sec, max 0.27 sec, min 0.27 sec)
+[2023.12.28-04.28.57:196][292]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.27 sec, max 0.27 sec, min 0.27 sec)
+[2023.12.28-04.28.57:196][292]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.12.28-04.28.57:196][292]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 11.20% of total time (compiled    2 times, average 0.19 sec, max 0.19 sec, min 0.18 sec)
+[2023.12.28-04.28.57:196][292]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 10.13% of total time (compiled    1 times, average 0.34 sec, max 0.34 sec, min 0.34 sec)
+[2023.12.28-04.28.57:196][292]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap - 10.07% of total time (compiled    1 times, average 0.34 sec, max 0.34 sec, min 0.34 sec)
+[2023.12.28-04.28.57:196][292]LogShaderCompilers: Display:                                                  FHitProxyVS - 9.72% of total time (compiled    1 times, average 0.33 sec, max 0.33 sec, min 0.33 sec)
+[2023.12.28-04.28.57:196][292]LogShaderCompilers: Display:                                                 FLumenCardVS - 8.14% of total time (compiled    1 times, average 0.27 sec, max 0.27 sec, min 0.27 sec)
+[2023.12.28-04.28.57:196][292]LogShaderCompilers: Display: ================================================
+[2023.12.28-04.28.57:672][334]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2023.12.28-04.28.57:672][334]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2023.12.28-04.28.57:673][334]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Game/Dungeon.Dungeon:PersistentLevel.SkyLight_1
+[2023.12.28-04.28.57:673][334]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Game/Dungeon.Dungeon:PersistentLevel.SkyLight_1
+[2023.12.28-04.29.14:162][125]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.28-04.29.37:593][641]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.28-04.30.06:397][351]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere_C
+[2023.12.28-04.30.06:397][351]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere_C
+[2023.12.28-04.30.06:399][351]LogActorFactory: Actor Factory spawned Blueprint /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere as actor: BP_Sky_Sphere_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Sky_Sphere_C_0
+[2023.12.28-04.30.06:399][351]LogActorFactory: Actor Factory spawned Blueprint /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere as actor: BP_Sky_Sphere_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Sky_Sphere_C_0
+[2023.12.28-04.30.07:176][419]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere_C
+[2023.12.28-04.30.07:176][419]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere_C
+[2023.12.28-04.30.07:177][419]LogActorFactory: Actor Factory spawned Blueprint /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere as actor: BP_Sky_Sphere_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Sky_Sphere_C_1
+[2023.12.28-04.30.07:178][419]LogActorFactory: Actor Factory spawned Blueprint /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere as actor: BP_Sky_Sphere_C /Game/Dungeon.Dungeon:PersistentLevel.BP_Sky_Sphere_C_1
+[2023.12.28-04.30.19:024][745]Cmd: DELETE
+[2023.12.28-04.30.19:024][745]Cmd: ACTOR DELETE
+[2023.12.28-04.30.19:028][745]LogEditorActor: Deleted Actor: SkyLight
+[2023.12.28-04.30.19:041][745]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2023.12.28-04.30.19:045][745]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2023.12.28-04.31.00:126][107]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2023.12.28-04.31.00:126][107]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2023.12.28-04.31.00:127][107]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Game/Dungeon.Dungeon:PersistentLevel.SkyLight_2
+[2023.12.28-04.31.00:127][107]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Game/Dungeon.Dungeon:PersistentLevel.SkyLight_2
+[2023.12.28-04.31.01:047][194]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2023.12.28-04.31.01:047][194]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2023.12.28-04.31.01:049][194]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Game/Dungeon.Dungeon:PersistentLevel.SkyLight_3
+[2023.12.28-04.31.01:049][194]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Game/Dungeon.Dungeon:PersistentLevel.SkyLight_3
+[2023.12.28-04.33.32:014][436]EditorErrors: New page: 액터 어태치먼트
+[2023.12.28-04.33.33:700][612]EditorErrors: New page: 액터 어태치먼트
+[2023.12.28-04.33.44:975][827]Cmd: DELETE
+[2023.12.28-04.33.44:975][827]Cmd: ACTOR DELETE
+[2023.12.28-04.33.44:977][827]LogEditorActor: Deleted Actor: SpotLight
+[2023.12.28-04.33.44:978][827]LogEditorActor: Deleted Actor: PointLight
+[2023.12.28-04.33.44:989][827]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.12.28-04.33.44:993][827]LogEditorActor: Deleted 2 Actors (0.018 secs)
+[2023.12.28-04.35.34:093][659]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2023.12.28-04.35.34:093][659]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2023.12.28-04.35.43:727][676]Cmd: TRANSACTION UNDO
+[2023.12.28-04.35.43:727][676]LogEditorTransaction: Undo 엘리먼트 회전
+[2023.12.28-04.38.05:415][705]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.12.28-04.38.05:419][705]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dungeon" FILE="D:/Unreal/CryptRaider/Saved/Autosaves/Game/Dungeon_Auto7.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2023.12.28-04.38.05:453][705]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Dungeon_Auto7
+[2023.12.28-04.38.05:453][705]LogSavePackage: Moving 'D:/Unreal/CryptRaider/Saved/Dungeon_Auto72A4BF8C841FD7561A137109A7268E79F.tmp' to 'D:/Unreal/CryptRaider/Saved/Autosaves/Game/Dungeon_Auto7.umap'
+[2023.12.28-04.38.05:454][705]LogAssetRegistry: Warning: ScanPathsSynchronous: D:/Unreal/CryptRaider/Saved/Autosaves/Game/Dungeon_Auto7.umap is in the /Temp path, will not scan.
+[2023.12.28-04.38.05:454][705]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/Dungeon_Auto7 is in the /Temp path, will not scan.
+[2023.12.28-04.38.05:454][705]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/Dungeon_Auto7 is in the /Temp path, will not scan.
+[2023.12.28-04.38.05:454][705]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Dungeon' took 0.051
+[2023.12.28-04.38.05:454][705]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.051
+[2023.12.28-05.18.04:542][245]LogDerivedDataCache: C:/Users/kmgmg/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:09.099 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 5091 files in 7016 folders with total size 561 MiB.
+[2023.12.28-06.18.05:504][214]LogDerivedDataCache: C:/Users/kmgmg/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:10.061 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 5091 files in 7016 folders with total size 561 MiB.
+[2023.12.28-06.22.18:621][246]LogShaderCompilers: Display: ================================================
+[2023.12.28-06.22.18:621][246]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.12.28-06.22.18:621][246]LogShaderCompilers: Display: Total job queries 38, among them cache hits 8 (21.05%)
+[2023.12.28-06.22.18:621][246]LogShaderCompilers: Display: Tracking 23 distinct input hashes that result in 17 distinct outputs (73.91%)
+[2023.12.28-06.22.18:621][246]LogShaderCompilers: Display: RAM used: 554.92 KiB of 1.60 GiB budget. Usage: 0.03%
+[2023.12.28-06.22.18:621][246]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.12.28-06.22.18:621][246]LogShaderCompilers: Display: Shaders Compiled: 13
+[2023.12.28-06.22.18:621][246]LogShaderCompilers: Display: Jobs assigned 20, completed 13 (65.00%)
+[2023.12.28-06.22.18:621][246]LogShaderCompilers: Display: Average time worker was idle: 11228.54 s
+[2023.12.28-06.22.18:621][246]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.08 s
+[2023.12.28-06.22.18:621][246]LogShaderCompilers: Display: Job execution time: average 0.88 s, max 1.10 s
+[2023.12.28-06.22.18:621][246]LogShaderCompilers: Display: Job life time (pending + execution): average 0.93 s, max 1.16
+[2023.12.28-06.22.18:621][246]LogShaderCompilers: Display: Shader code size: average 35.256 KiB, min 8.062 KiB, max 61.523 KiB
+[2023.12.28-06.22.18:621][246]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.97 s
+[2023.12.28-06.22.18:621][246]LogShaderCompilers: Display: Jobs were issued in 20 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.12.28-06.22.18:621][246]LogShaderCompilers: Display: Average processing rate: 6.61 jobs/sec
+[2023.12.28-06.22.18:621][246]LogShaderCompilers: Display: Total thread time: 3.406 s
+[2023.12.28-06.22.18:621][246]LogShaderCompilers: Display: Total thread preprocess time: 0.541 s
+[2023.12.28-06.22.18:621][246]LogShaderCompilers: Display: Percentage time preprocessing: 15.89%
+[2023.12.28-06.22.18:621][246]LogShaderCompilers: Display: Effective parallelization: 1.73 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2023.12.28-06.22.18:621][246]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.12.28-06.22.18:621][246]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.34 sec, max 0.34 sec, min 0.34 sec)
+[2023.12.28-06.22.18:621][246]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    1 times, average 0.34 sec, max 0.34 sec, min 0.34 sec)
+[2023.12.28-06.22.18:621][246]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    1 times, average 0.33 sec, max 0.33 sec, min 0.33 sec)
+[2023.12.28-06.22.18:621][246]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 0.27 sec, max 0.27 sec, min 0.27 sec)
+[2023.12.28-06.22.18:621][246]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.27 sec, max 0.27 sec, min 0.27 sec)
+[2023.12.28-06.22.18:621][246]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.12.28-06.22.18:621][246]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 11.02% of total time (compiled    2 times, average 0.19 sec, max 0.19 sec, min 0.18 sec)
+[2023.12.28-06.22.18:621][246]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 9.97% of total time (compiled    1 times, average 0.34 sec, max 0.34 sec, min 0.34 sec)
+[2023.12.28-06.22.18:622][246]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap - 9.91% of total time (compiled    1 times, average 0.34 sec, max 0.34 sec, min 0.34 sec)
+[2023.12.28-06.22.18:622][246]LogShaderCompilers: Display:                                                  FHitProxyVS - 9.57% of total time (compiled    1 times, average 0.33 sec, max 0.33 sec, min 0.33 sec)
+[2023.12.28-06.22.18:622][246]LogShaderCompilers: Display:                                                 FLumenCardVS - 8.01% of total time (compiled    1 times, average 0.27 sec, max 0.27 sec, min 0.27 sec)
+[2023.12.28-06.22.18:622][246]LogShaderCompilers: Display: ================================================
+[2023.12.28-06.22.38:534][435]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/MedievalDungeon/Materials/M_Tiling_Master.M_Tiling_Master
+[2023.12.28-06.22.38:549][435]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.28-06.22.38:549][435]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.28-06.22.38:678][435]MaterialEditorStats: Texture samplers: 0/16
+[2023.12.28-06.22.38:678][435]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.12.28-06.22.38:678][435]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.12.28-06.22.38:678][435]MaterialEditorStats: LWC Other usages (Est.): 2
+[2023.12.28-06.22.38:678][435]MaterialEditorStats: Shader Count: 0
+[2023.12.28-06.22.38:685][435]LogSlate: Took 0.000263 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.12.28-06.22.38:692][435]LogViewport: Scene viewport resized to 325x381, mode Windowed.
+[2023.12.28-06.22.38:800][437]MaterialEditorStats: Base pass shader: 294 instructions
+[2023.12.28-06.22.38:800][437]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2023.12.28-06.22.38:800][437]MaterialEditorStats: Texture samplers: 6/16
+[2023.12.28-06.22.38:800][437]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.12.28-06.22.38:800][437]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.12.28-06.22.38:800][437]MaterialEditorStats: LWC Other usages (Est.): 2
+[2023.12.28-06.22.38:800][437]MaterialEditorStats: Shader Count: 10
+[2023.12.28-06.22.40:071][524]LogViewport: Scene viewport resized to 324x392, mode Windowed.
+[2023.12.28-06.22.40:151][526]LogViewport: Scene viewport resized to 208x234, mode Windowed.
+[2023.12.28-06.22.40:173][527]LogViewport: Scene viewport resized to 151x158, mode Windowed.
+[2023.12.28-06.22.40:534][568]LogViewport: Scene viewport resized to 504x624, mode Windowed.
+[2023.12.28-06.22.40:928][613]LogSlate: Window 'M_Tiling_Master' being destroyed
+[2023.12.28-06.22.57:607][698]MaterialEditorStats: Base pass shader: 212 instructions
+[2023.12.28-06.22.57:607][698]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2023.12.28-06.22.57:607][698]MaterialEditorStats: Texture samplers: 5/16
+[2023.12.28-06.22.57:607][698]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.12.28-06.22.57:607][698]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.12.28-06.22.57:607][698]MaterialEditorStats: Shader Count: 4
+[2023.12.28-06.23.18:326][ 18]LogMaterialEditor: Applying material M_Tiling_Master
+[2023.12.28-06.23.18:849][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.12.28-06.23.19:349][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2023.12.28-06.23.19:357][ 18]MaterialEditorStats: Texture samplers: 3/16
+[2023.12.28-06.23.19:357][ 18]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.12.28-06.23.19:357][ 18]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.12.28-06.23.19:357][ 18]MaterialEditorStats: Shader Count: 2
+[2023.12.28-06.23.19:573][ 32]MaterialEditorStats: Base pass shader: 212 instructions
+[2023.12.28-06.23.19:573][ 32]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2023.12.28-06.23.19:573][ 32]MaterialEditorStats: Texture samplers: 5/16
+[2023.12.28-06.23.19:573][ 32]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.12.28-06.23.19:573][ 32]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.12.28-06.23.19:573][ 32]MaterialEditorStats: Shader Count: 6
+[2023.12.28-06.23.21:019][181]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2023.12.28-06.23.21:021][181]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dungeon" FILE="D:/Unreal/CryptRaider/Saved/Autosaves/Game/Dungeon_Auto8.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2023.12.28-06.23.21:052][181]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Dungeon_Auto8
+[2023.12.28-06.23.21:052][181]LogSavePackage: Moving 'D:/Unreal/CryptRaider/Saved/Dungeon_Auto8E8159FFC4DB575F93F0A4195868996DB.tmp' to 'D:/Unreal/CryptRaider/Saved/Autosaves/Game/Dungeon_Auto8.umap'
+[2023.12.28-06.23.21:053][181]LogAssetRegistry: Warning: ScanPathsSynchronous: D:/Unreal/CryptRaider/Saved/Autosaves/Game/Dungeon_Auto8.umap is in the /Temp path, will not scan.
+[2023.12.28-06.23.21:053][181]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/Dungeon_Auto8 is in the /Temp path, will not scan.
+[2023.12.28-06.23.21:053][181]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/Dungeon_Auto8 is in the /Temp path, will not scan.
+[2023.12.28-06.23.21:053][181]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Dungeon' took 0.046
+[2023.12.28-06.23.21:053][181]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.046
+[2023.12.28-06.23.21:053][181]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MedievalDungeon/Materials/M_Tiling_Master] ([1] browsable assets)...
+[2023.12.28-06.23.22:806][181]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MedievalDungeon/Materials/M_Tiling_Master.M_Tiling_Master]
+[2023.12.28-06.23.22:806][181]OBJ SavePackage: Finished generating thumbnails for package [/Game/MedievalDungeon/Materials/M_Tiling_Master]
+[2023.12.28-06.23.22:813][181]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MedievalDungeon/Materials/M_Tiling_Master_Auto8
+[2023.12.28-06.23.22:813][181]LogSavePackage: Moving 'D:/Unreal/CryptRaider/Saved/M_Tiling_Master_Auto843ED631443EEA36E2D04C8AAE3D4CFF9.tmp' to 'D:/Unreal/CryptRaider/Saved/Autosaves/Game/MedievalDungeon/Materials/M_Tiling_Master_Auto8.uasset'
+[2023.12.28-06.23.22:814][181]LogFileHelpers: Auto-saving content packages took 1.760
+[2023.12.28-06.23.22:860][182]MaterialEditorStats: Base pass shader: 212 instructions
+[2023.12.28-06.23.22:860][182]MaterialEditorStats: Base pass shader with Surface Lightmap: 243 instructions
+[2023.12.28-06.23.22:860][182]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2023.12.28-06.23.22:860][182]MaterialEditorStats: Texture samplers: 6/16
+[2023.12.28-06.23.22:860][182]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.12.28-06.23.22:860][182]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.12.28-06.23.22:860][182]MaterialEditorStats: Shader Count: 73
+[2023.12.28-06.30.13:675][497]LogViewport: Scene viewport resized to 847x482, mode Windowed.
+[2023.12.28-06.30.13:720][498]LogViewport: Scene viewport resized to 1239x707, mode Windowed.
+[2023.12.28-06.30.13:772][499]LogViewport: Scene viewport resized to 1406x803, mode Windowed.
+[2023.12.28-06.30.13:808][500]LogViewport: Scene viewport resized to 1424x813, mode Windowed.
+[2023.12.28-06.30.21:684][415]LogViewport: Scene viewport resized to 1110x633, mode Windowed.
+[2023.12.28-06.30.21:706][416]LogViewport: Scene viewport resized to 966x551, mode Windowed.
+[2023.12.28-06.30.21:730][417]LogViewport: Scene viewport resized to 855x487, mode Windowed.
+[2023.12.28-06.30.21:747][418]LogViewport: Scene viewport resized to 801x456, mode Windowed.
+[2023.12.28-06.30.21:763][419]LogViewport: Scene viewport resized to 766x436, mode Windowed.
+[2023.12.28-06.30.21:777][420]LogViewport: Scene viewport resized to 741x422, mode Windowed.
+[2023.12.28-06.30.21:793][421]LogViewport: Scene viewport resized to 725x413, mode Windowed.
+[2023.12.28-06.30.21:807][422]LogViewport: Scene viewport resized to 716x408, mode Windowed.
+[2023.12.28-06.30.21:821][423]LogViewport: Scene viewport resized to 711x405, mode Windowed.
+[2023.12.28-06.30.21:835][424]LogViewport: Scene viewport resized to 710x404, mode Windowed.
+[2023.12.28-06.32.44:632][894]LogStaticMesh: Display: SM_Edge_Stones 스태틱 메시 빌드 중...
+[2023.12.28-06.32.44:657][894]LogStaticMesh: Built static mesh [0.03s] /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Edge_Stones.SM_Edge_Stones
+[2023.12.28-06.32.45:427][973]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Edge_Stones.SM_Edge_Stones
+[2023.12.28-06.32.45:427][973]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Edge_Stones.SM_Edge_Stones
+[2023.12.28-06.32.45:428][973]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Edge_Stones.SM_Edge_Stones as actor: StaticMeshActor /Game/Dungeon.Dungeon:PersistentLevel.StaticMeshActor_347
+[2023.12.28-06.32.46:401][ 80]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Edge_Stones.SM_Edge_Stones
+[2023.12.28-06.32.46:401][ 80]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Edge_Stones.SM_Edge_Stones
+[2023.12.28-06.32.46:401][ 80]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Edge_Stones.SM_Edge_Stones as actor: StaticMeshActor /Game/Dungeon.Dungeon:PersistentLevel.StaticMeshActor_348
+[2023.12.28-06.32.48:094][281]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Edge_Stones.SM_Edge_Stones
+[2023.12.28-06.32.48:094][281]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Edge_Stones.SM_Edge_Stones
+[2023.12.28-06.32.48:095][281]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Edge_Stones.SM_Edge_Stones as actor: StaticMeshActor /Game/Dungeon.Dungeon:PersistentLevel.StaticMeshActor_349
+[2023.12.28-06.32.48:168][282]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Edge_Stones.SM_Edge_Stones
+[2023.12.28-06.32.48:168][282]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Edge_Stones.SM_Edge_Stones
+[2023.12.28-06.32.48:169][282]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Edge_Stones.SM_Edge_Stones as actor: StaticMeshActor /Game/Dungeon.Dungeon:PersistentLevel.StaticMeshActor_350
+[2023.12.28-06.32.48:283][295]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Edge_Stones.SM_Edge_Stones
+[2023.12.28-06.32.48:283][295]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Edge_Stones.SM_Edge_Stones
+[2023.12.28-06.32.48:284][295]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Edge_Stones.SM_Edge_Stones as actor: StaticMeshActor /Game/Dungeon.Dungeon:PersistentLevel.StaticMeshActor_351
+[2023.12.28-06.32.48:515][317]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Edge_Stones.SM_Edge_Stones
+[2023.12.28-06.32.48:515][317]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Edge_Stones.SM_Edge_Stones
+[2023.12.28-06.32.48:516][317]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Edge_Stones.SM_Edge_Stones as actor: StaticMeshActor /Game/Dungeon.Dungeon:PersistentLevel.StaticMeshActor_352
+[2023.12.28-06.32.49:491][428]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Edge_Stones.SM_Edge_Stones
+[2023.12.28-06.32.49:491][428]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Edge_Stones.SM_Edge_Stones
+[2023.12.28-06.32.49:492][428]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Edge_Stones.SM_Edge_Stones as actor: StaticMeshActor /Game/Dungeon.Dungeon:PersistentLevel.StaticMeshActor_353
+[2023.12.28-06.33.25:987][407]Cmd: EDIT COPY
+[2023.12.28-06.34.03:243][313]Cmd: TRANSACTION UNDO
+[2023.12.28-06.34.03:243][313]LogEditorTransaction: Undo 엘리먼트 회전
+[2023.12.28-06.34.25:027][732]Cmd: TRANSACTION UNDO
+[2023.12.28-06.34.25:027][732]LogEditorTransaction: Undo 엘리먼트 이동
+[2023.12.28-06.37.39:768][136]Cmd: EDIT COPY
+[2023.12.28-06.37.41:754][372]Cmd: EDIT PASTE
+[2023.12.28-06.37.44:056][645]Cmd: TRANSACTION UNDO
+[2023.12.28-06.37.44:056][645]LogEditorTransaction: Undo 붙여넣기
+[2023.12.28-06.37.49:225][189]Cmd: EDIT COPY
+[2023.12.28-06.37.54:297][788]Cmd: EDIT PASTE
+[2023.12.28-06.37.58:823][320]Cmd: TRANSACTION UNDO
+[2023.12.28-06.37.58:823][320]LogEditorTransaction: Undo 월드 아웃라이너 항목 이동
+[2023.12.28-06.37.59:535][355]Cmd: TRANSACTION UNDO
+[2023.12.28-06.37.59:535][355]LogEditorTransaction: Undo 붙여넣기
+[2023.12.28-06.38.04:349][903]Cmd: EDIT COPY
+[2023.12.28-06.38.07:172][239]Cmd: EDIT PASTE
+[2023.12.28-06.38.12:641][889]Cmd: TRANSACTION UNDO
+[2023.12.28-06.38.12:641][889]LogEditorTransaction: Undo 붙여넣기
+[2023.12.28-06.38.13:238][909]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.28-06.38.13:287][909]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dungeon" FILE="D:/Unreal/CryptRaider/Content/Dungeon.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.12.28-06.38.13:314][909]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.12.28-06.38.13:352][909]LogSavePackage: Moving output files for package: /Game/Dungeon
+[2023.12.28-06.38.13:352][909]LogSavePackage: Moving 'D:/Unreal/CryptRaider/Saved/DungeonD77490BC4EF87FF1868419B8E313EB00.tmp' to 'D:/Unreal/CryptRaider/Content/Dungeon.umap'
+[2023.12.28-06.38.13:357][909]LogFileHelpers: Saving map 'Dungeon' took 0.069
+[2023.12.28-06.38.13:363][909]LogFileHelpers: InternalPromptForCheckoutAndSave took 125 ms (total: 604 ms)
+[2023.12.28-06.38.13:364][909]AssetCheck: New page: 에셋 저장:  Dungeon
+[2023.12.28-06.38.13:364][909]LogContentValidation: Display: /Script/Engine.World /Game/Dungeon.Dungeon 유효성 검사 중
+[2023.12.28-06.39.08:259][ 62]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Edge_Stones.SM_Edge_Stones
+[2023.12.28-06.39.08:259][ 62]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Edge_Stones.SM_Edge_Stones
+[2023.12.28-06.39.08:259][ 62]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Edge_Stones.SM_Edge_Stones as actor: StaticMeshActor /Game/Dungeon.Dungeon:PersistentLevel.StaticMeshActor_373
+[2023.12.28-06.39.08:297][ 62]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Edge_Stones.SM_Edge_Stones
+[2023.12.28-06.39.08:297][ 62]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Edge_Stones.SM_Edge_Stones
+[2023.12.28-06.39.08:298][ 62]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Edge_Stones.SM_Edge_Stones as actor: StaticMeshActor /Game/Dungeon.Dungeon:PersistentLevel.StaticMeshActor_374
+[2023.12.28-06.39.08:499][ 82]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Edge_Stones.SM_Edge_Stones
+[2023.12.28-06.39.08:499][ 82]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Edge_Stones.SM_Edge_Stones
+[2023.12.28-06.39.08:499][ 82]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Edge_Stones.SM_Edge_Stones as actor: StaticMeshActor /Game/Dungeon.Dungeon:PersistentLevel.StaticMeshActor_375
+[2023.12.28-06.39.11:582][433]Cmd: TRANSACTION UNDO
+[2023.12.28-06.39.11:582][433]LogEditorTransaction: Undo 월드 아웃라이너 항목 이동
+[2023.12.28-06.40.48:745][  9]Cmd: TRANSACTION UNDO
+[2023.12.28-06.40.48:745][  9]LogEditorTransaction: Undo 엘리먼트 이동
+[2023.12.28-06.42.02:031][999]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.28-06.42.02:071][999]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dungeon" FILE="D:/Unreal/CryptRaider/Content/Dungeon.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.12.28-06.42.02:093][999]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.12.28-06.42.02:134][999]LogSavePackage: Moving output files for package: /Game/Dungeon
+[2023.12.28-06.42.02:135][999]LogSavePackage: Moving 'D:/Unreal/CryptRaider/Saved/Dungeon441EDE804029D5BAF6B331A0E36A12D7.tmp' to 'D:/Unreal/CryptRaider/Content/Dungeon.umap'
+[2023.12.28-06.42.02:142][999]LogFileHelpers: Saving map 'Dungeon' took 0.071
+[2023.12.28-06.42.02:151][999]LogFileHelpers: InternalPromptForCheckoutAndSave took 119 ms (total: 723 ms)
+[2023.12.28-06.42.02:153][999]AssetCheck: New page: 에셋 저장:  Dungeon
+[2023.12.28-06.42.02:153][999]LogContentValidation: Display: /Script/Engine.World /Game/Dungeon.Dungeon 유효성 검사 중
