@@ -1666,3 +1666,110 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.12.28-03.44.48:767][758]LogFileHelpers: InternalPromptForCheckoutAndSave took 96 ms (total: 258 ms)
 [2023.12.28-03.44.48:769][758]AssetCheck: New page: 에셋 저장:  Dungeon
 [2023.12.28-03.44.48:769][758]LogContentValidation: Display: /Script/Engine.World /Game/Dungeon.Dungeon 유효성 검사 중
+[2023.12.28-03.53.44:588][905]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Doorway.SM_Crypt_Doorway
+[2023.12.28-03.53.44:641][905]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.28-03.53.44:642][905]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.28-03.53.45:042][905]LogViewport: Scene viewport resized to 1217x767, mode Windowed.
+[2023.12.28-03.53.55:991][854]LogSlate: Window 'SM_Crypt_Doorway' being destroyed
+[2023.12.28-03.53.56:020][854]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.12.28-03.53.56:020][854]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.28-03.55.36:638][ 69]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Wall_Stop_Gap.SM_Crypt_Wall_Stop_Gap
+[2023.12.28-03.55.36:638][ 69]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Wall_Stop_Gap.SM_Crypt_Wall_Stop_Gap
+[2023.12.28-03.55.36:638][ 69]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Wall_Stop_Gap.SM_Crypt_Wall_Stop_Gap as actor: StaticMeshActor /Game/Dungeon.Dungeon:PersistentLevel.StaticMeshActor_328
+[2023.12.28-03.55.38:128][222]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Wall_Stop_Gap.SM_Crypt_Wall_Stop_Gap
+[2023.12.28-03.55.38:128][222]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Wall_Stop_Gap.SM_Crypt_Wall_Stop_Gap
+[2023.12.28-03.55.38:129][222]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Wall_Stop_Gap.SM_Crypt_Wall_Stop_Gap as actor: StaticMeshActor /Game/Dungeon.Dungeon:PersistentLevel.StaticMeshActor_329
+[2023.12.28-03.56.42:682][216]Cmd: DELETE
+[2023.12.28-03.56.42:682][216]Cmd: ACTOR DELETE
+[2023.12.28-03.56.42:684][216]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.12.28-03.56.42:693][216]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2023.12.28-03.56.42:696][216]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2023.12.28-03.56.58:937][ 99]LogStaticMesh: Display: SM_Crypt_Ceiling_Half 스태틱 메시 빌드 중...
+[2023.12.28-03.56.58:940][ 99]LogStaticMesh: Built static mesh [0.00s] /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Ceiling_Half.SM_Crypt_Ceiling_Half
+[2023.12.28-03.56.59:263][123]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Ceiling_Half.SM_Crypt_Ceiling_Half
+[2023.12.28-03.56.59:263][123]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Ceiling_Half.SM_Crypt_Ceiling_Half
+[2023.12.28-03.56.59:264][123]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Ceiling_Half.SM_Crypt_Ceiling_Half as actor: StaticMeshActor /Game/Dungeon.Dungeon:PersistentLevel.StaticMeshActor_331
+[2023.12.28-03.56.59:946][196]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Ceiling_Half.SM_Crypt_Ceiling_Half
+[2023.12.28-03.56.59:946][196]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Ceiling_Half.SM_Crypt_Ceiling_Half
+[2023.12.28-03.56.59:946][196]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Ceiling_Half.SM_Crypt_Ceiling_Half as actor: StaticMeshActor /Game/Dungeon.Dungeon:PersistentLevel.StaticMeshActor_332
+[2023.12.28-03.57.01:410][354]Cmd: TRANSACTION UNDO
+[2023.12.28-03.57.01:410][354]LogEditorTransaction: Undo 액터 생성
+[2023.12.28-03.57.02:943][473]LogStaticMesh: Display: SM_Crypt_Ceiling_Half_B 스태틱 메시 빌드 중...
+[2023.12.28-03.57.02:946][473]LogStaticMesh: Built static mesh [0.00s] /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Ceiling_Half_B.SM_Crypt_Ceiling_Half_B
+[2023.12.28-03.57.03:141][482]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Ceiling_Half_B.SM_Crypt_Ceiling_Half_B
+[2023.12.28-03.57.03:141][482]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Ceiling_Half_B.SM_Crypt_Ceiling_Half_B
+[2023.12.28-03.57.03:142][482]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Ceiling_Half_B.SM_Crypt_Ceiling_Half_B as actor: StaticMeshActor /Game/Dungeon.Dungeon:PersistentLevel.StaticMeshActor_333
+[2023.12.28-03.57.05:277][696]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Ceiling_Half.SM_Crypt_Ceiling_Half
+[2023.12.28-03.57.05:277][696]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Ceiling_Half.SM_Crypt_Ceiling_Half
+[2023.12.28-03.57.05:278][696]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Ceiling_Half.SM_Crypt_Ceiling_Half as actor: StaticMeshActor /Game/Dungeon.Dungeon:PersistentLevel.StaticMeshActor_334
+[2023.12.28-03.57.05:761][746]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Ceiling_Half.SM_Crypt_Ceiling_Half
+[2023.12.28-03.57.05:761][746]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Ceiling_Half.SM_Crypt_Ceiling_Half
+[2023.12.28-03.57.05:762][746]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Ceiling_Half.SM_Crypt_Ceiling_Half as actor: StaticMeshActor /Game/Dungeon.Dungeon:PersistentLevel.StaticMeshActor_335
+[2023.12.28-03.58.21:716][204]Cmd: TRANSACTION UNDO
+[2023.12.28-03.58.21:716][204]LogEditorTransaction: Undo 엘리먼트 이동
+[2023.12.28-03.58.22:548][235]Cmd: TRANSACTION UNDO
+[2023.12.28-03.58.22:548][235]LogEditorTransaction: Undo 엘리먼트 이동
+[2023.12.28-03.58.22:877][267]Cmd: TRANSACTION UNDO
+[2023.12.28-03.58.22:877][267]LogEditorTransaction: Undo 엘리먼트 회전
+[2023.12.28-03.58.23:213][302]Cmd: TRANSACTION UNDO
+[2023.12.28-03.58.23:213][302]LogEditorTransaction: Undo 엘리먼트 클릭
+[2023.12.28-04.00.43:294][859]LogStaticMesh: Display: SM_Crypt_Ceiling_Flat 스태틱 메시 빌드 중...
+[2023.12.28-04.00.43:295][859]LogStaticMesh: Built static mesh [0.00s] /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Ceiling_Flat.SM_Crypt_Ceiling_Flat
+[2023.12.28-04.00.43:455][863]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Ceiling_Flat.SM_Crypt_Ceiling_Flat
+[2023.12.28-04.00.43:455][863]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Ceiling_Flat.SM_Crypt_Ceiling_Flat
+[2023.12.28-04.00.43:455][863]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Ceiling_Flat.SM_Crypt_Ceiling_Flat as actor: StaticMeshActor /Game/Dungeon.Dungeon:PersistentLevel.StaticMeshActor_337
+[2023.12.28-04.00.44:403][963]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Ceiling_Flat.SM_Crypt_Ceiling_Flat
+[2023.12.28-04.00.44:403][963]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Ceiling_Flat.SM_Crypt_Ceiling_Flat
+[2023.12.28-04.00.44:404][963]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Ceiling_Flat.SM_Crypt_Ceiling_Flat as actor: StaticMeshActor /Game/Dungeon.Dungeon:PersistentLevel.StaticMeshActor_338
+[2023.12.28-04.00.53:273][956]Cmd: DELETE
+[2023.12.28-04.00.53:273][956]Cmd: ACTOR DELETE
+[2023.12.28-04.00.53:275][956]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.12.28-04.00.53:286][956]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.12.28-04.00.53:290][956]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2023.12.28-04.01.17:269][607]Cmd: TRANSACTION UNDO
+[2023.12.28-04.01.17:269][607]LogEditorTransaction: Undo 엘리먼트 이동
+[2023.12.28-04.01.20:466][918]Cmd: TRANSACTION UNDO
+[2023.12.28-04.01.20:466][918]LogEditorTransaction: Undo 엘리먼트 이동
+[2023.12.28-04.01.21:451][ 16]Cmd: TRANSACTION UNDO
+[2023.12.28-04.01.21:451][ 16]LogEditorTransaction: Undo 엘리먼트 이동
+[2023.12.28-04.01.23:052][150]Cmd: TRANSACTION UNDO
+[2023.12.28-04.01.23:052][150]LogEditorTransaction: Undo 엘리먼트 클릭
+[2023.12.28-04.01.23:354][179]Cmd: TRANSACTION UNDO
+[2023.12.28-04.01.23:354][179]LogEditorTransaction: Undo 엘리먼트 삭제
+[2023.12.28-04.03.26:334][272]Cmd: DELETE
+[2023.12.28-04.03.26:334][272]Cmd: ACTOR DELETE
+[2023.12.28-04.03.26:337][272]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.12.28-04.03.26:342][272]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2023.12.28-04.03.26:345][272]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2023.12.28-04.05.11:968][966]LogEditorViewport: Clicking Background
+[2023.12.28-04.05.55:296][699]LogWindows: LaunchURL https://docs.unrealengine.com/5.3/ko/BuildingWorlds/LevelEditor?utm_source=editor&utm_medium=docs&utm_campaign=help_menu
+[2023.12.28-04.06.07:989][895]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.28-04.06.08:032][895]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dungeon" FILE="D:/Unreal/CryptRaider/Content/Dungeon.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.12.28-04.06.08:047][895]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2023.12.28-04.06.08:089][895]LogSavePackage: Moving output files for package: /Game/Dungeon
+[2023.12.28-04.06.08:089][895]LogSavePackage: Moving 'D:/Unreal/CryptRaider/Saved/DungeonB2C37633425A2AD9452F9D911CBAE68B.tmp' to 'D:/Unreal/CryptRaider/Content/Dungeon.umap'
+[2023.12.28-04.06.08:096][895]LogFileHelpers: Saving map 'Dungeon' took 0.066
+[2023.12.28-04.06.08:102][895]LogFileHelpers: InternalPromptForCheckoutAndSave took 113 ms (total: 371 ms)
+[2023.12.28-04.06.08:104][895]AssetCheck: New page: 에셋 저장:  Dungeon
+[2023.12.28-04.06.08:104][895]LogContentValidation: Display: /Script/Engine.World /Game/Dungeon.Dungeon 유효성 검사 중
+[2023.12.28-04.07.17:632][699]Cmd: TRANSACTION UNDO
+[2023.12.28-04.07.17:632][699]LogEditorTransaction: Undo 아웃라이너 항목 이동
+[2023.12.28-04.07.41:711][279]LogEditorViewport: Clicking Background
+[2023.12.28-04.08.52:358][297]LogEditorViewport: Clicking Background
+[2023.12.28-04.09.47:303][548]LogWindows: LaunchURL https://docs.unrealengine.com/5.3/ko/BuildingWorlds/LevelEditor?utm_source=editor&utm_medium=docs&utm_campaign=help_menu
+[2023.12.28-04.10.09:208][659]Cmd: TRANSACTION UNDO
+[2023.12.28-04.10.09:208][659]LogEditorTransaction: Undo 아웃라이너 항목 이동
+[2023.12.28-04.11.37:478][681]Cmd: DELETE
+[2023.12.28-04.11.37:478][681]Cmd: ACTOR DELETE
+[2023.12.28-04.11.37:481][681]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.12.28-04.11.37:500][681]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.12.28-04.11.37:504][681]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2023.12.28-04.15.40:840][140]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.28-04.15.40:863][140]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dungeon" FILE="D:/Unreal/CryptRaider/Content/Dungeon.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.12.28-04.15.40:890][140]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2023.12.28-04.15.40:931][140]LogSavePackage: Moving output files for package: /Game/Dungeon
+[2023.12.28-04.15.40:931][140]LogSavePackage: Moving 'D:/Unreal/CryptRaider/Saved/Dungeon55228AE54A63B29BCF8F1B80747DCDFE.tmp' to 'D:/Unreal/CryptRaider/Content/Dungeon.umap'
+[2023.12.28-04.15.40:941][140]LogFileHelpers: Saving map 'Dungeon' took 0.078
+[2023.12.28-04.15.40:946][140]LogFileHelpers: InternalPromptForCheckoutAndSave took 106 ms (total: 478 ms)
+[2023.12.28-04.15.40:948][140]AssetCheck: New page: 에셋 저장:  Dungeon
+[2023.12.28-04.15.40:948][140]LogContentValidation: Display: /Script/Engine.World /Game/Dungeon.Dungeon 유효성 검사 중
